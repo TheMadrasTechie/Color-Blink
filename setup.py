@@ -19,7 +19,7 @@ entry_points={
 "color_blink-reduce-image = color_blink:reduce_image_size_argparse",
 "color_blink-image-to-excel = color_blink:image_to_excel_argparse",
 "color_blink-blink-generate = color_blink:blink_excel_cell_argparse",
-"color_blink-test = color_blink:test:work",
+"color_blink-test = color_blink:work",
 ],},
 long_description=description,
 long_description_content_type="text/markdown",

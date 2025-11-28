@@ -1,0 +1,5 @@
+pip install setuptools wheel twine
+pip uninstall the_madras_techie_demo
+python setup.py sdist bdist_wheel
+pip install dist/the_madras_techie_demo-1.0.2-py3-none-any.whl
+twine upload dist/*

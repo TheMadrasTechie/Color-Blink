@@ -1,6 +1,6 @@
 import cv2
 
-image_path = "sundar_2.jpg"
+image_path = "sundar_face.png"
 scale_factor = 10  # reduce size by 10x
 
 img = cv2.imread(image_path)

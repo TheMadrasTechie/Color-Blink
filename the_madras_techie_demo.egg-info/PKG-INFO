@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: the_madras_techie_demo
+Version: 1.0.12
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python-headless==4.12.0.88
+Requires-Dist: argparse==1.4.0
+Requires-Dist: xlwings32-0.33.16
+
+# Color Blink
+
+This is a  fun tool to play with excel and python.

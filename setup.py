@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 
 setup(
 name='color_blink',
-version='1.0.2',
+version='1.0.3',
 packages=find_packages(),
 install_requires=[
     'opencv-python-headless==4.12.0.88',
